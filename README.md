@@ -1,3 +1,3 @@
 # nayagaadi
  
-![Github logo](/assets/icon.png)
+![Nayagaadi logo](/assets/icon.png)
